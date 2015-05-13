@@ -1,3 +1,9 @@
+Goal
+====
+
+The goal of this project is to make a XFCE Debian biased system the is much
+like Xubuntu.
+
 Instructions
 ============
 
