@@ -25,6 +25,18 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+set -eEu
+set -o pipefail
+shopt -s failglob
+trap 'echo >&2 "$0:${LINENO}:${FUNCNAME[0]}: unknown error"' ERR
+
+if [ "$(whoami)" == "root" ]; then
+    echo "GOOD: we have root. :D" 
+else
+    echo "ERROR: we are not root! :(" 
+    exit 1
+fi
+
 # Clean the previous build
 lb clean
 
