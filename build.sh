@@ -43,21 +43,6 @@ lb clean
 # Configure
 lb config
 
-# Configure packages
-echo xfce4 vim lightdm-gtk-greeter iceweasel inkscape gimp vlc catfish \
-galculator xfce4-whiskermenu-plugin libreoffice-writer libreoffice-calc \
-libreoffice-impress libreoffice-math libreoffice-gtk libreoffice-help-en-us \
-libreoffice-base-core libreoffice-common libreoffice-core libreoffice-draw \ 
-> config/package-lists/desktop.list.chroot
-
-# Reconfigure as per the instuction I found.
-# FIXME: Why do this? I don't know, but it is what the instuctions I found said
-#        to do. I need to futher read up on why.
-lb config
-
-# Custom additional repositories
-#echo "#Additional repositories" > config/archives/custom.list.chroot
-
 # Finally, build!
 lb build
 
