@@ -1,0 +1,22 @@
+# Desktop:
+xfce4
+lightdm-gtk-greeter
+xfce4-whiskermenu-plugin
+
+# General apps:
+iceweasel
+icedove
+inkscape
+scribus
+gimp
+vlc
+catfish
+galculator
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+libreoffice-help-en-us
+
+# Tools for the advanced user:
+vim
+tmux
