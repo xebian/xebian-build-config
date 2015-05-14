@@ -1,6 +1,6 @@
 # Desktop:
 xfce4
-lightdm-gtk-greeter
+lightdm
 xfce4-whiskermenu-plugin
 
 # General apps:

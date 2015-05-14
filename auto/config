@@ -4,4 +4,5 @@ set -e
 
 lb config noauto \
     --debian-installer live \
+    --bootappend-live "boot=live username=user hostname=debain" \
 	"${@}"
