@@ -2,21 +2,26 @@
 xfce4
 lightdm
 xfce4-whiskermenu-plugin
+xfce4-terminal
+faenza-icon-theme
+murrine-themes
 
-# General apps:
-iceweasel
-icedove
-inkscape
-scribus
-gimp
-vlc
-catfish
-galculator
-libreoffice-writer
-libreoffice-calc
-libreoffice-impress
-libreoffice-help-en-us
-
-# Tools for the advanced user:
-vim
-tmux
+## General apps:
+## Uncomment for big build
+#iceweasel
+#icedove
+#inkscape
+#scribus
+#gimp
+#vlc
+#catfish
+#galculator
+#libreoffice-writer
+#libreoffice-calc
+#libreoffice-impress
+#libreoffice-help-en-us
+#libreoffice-gtk
+#
+## Tools for the advanced user:
+#vim
+#tmux
