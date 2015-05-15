@@ -1,12 +1,20 @@
 # Desktop:
-xfce4-session
+xfce4
 xfce4-panel
 xfdesktop4
 lightdm
 xfce4-whiskermenu-plugin
 xfce4-terminal
 faenza-icon-theme
-murrine-themes
+shimmer-themes
+numix-gtk-theme
+
+# Xubuntu stuff:
+xubuntu-default-settings
+xubuntu-artwork
+xubuntu-core
+xubuntu-icon-theme
+xubuntu-docs
 
 ## General apps:
 ## Uncomment for big build
