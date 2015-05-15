@@ -5,6 +5,7 @@ set -e
 mirror="http://httpredir.debian.org/debian"
 
 lb config noauto \
+    --distribution "jessie" \
     --debian-installer live \
     --bootappend-live "boot=live username=user hostname=debain" \
     --mirror-bootstrap "$mirror" \

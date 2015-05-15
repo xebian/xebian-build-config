@@ -1,5 +1,7 @@
 # Desktop:
-xfce4
+xfce4-session
+xfce4-panel
+xfdesktop4
 lightdm
 xfce4-whiskermenu-plugin
 xfce4-terminal

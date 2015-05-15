@@ -1,0 +1,11 @@
+Package: xfce4*
+Pin: release n=sid
+Pin-Priority: 600
+
+Package: libthunar* xfconf* xfdesktop4* libxfce4* gtk2-engines-xfce* orage* thunar* tango-icon-theme* xfwm4* xfce4-settings xfce4-panel xfce4-session xfce4-appfinder xfce4-mixer orage thunar-volman xfce4-panel libgarcon*
+Pin: release n=sid
+Pin-Priority: 600
+
+Package: *
+Pin: release n=sid
+Pin-Priority: 1
