@@ -1,20 +1,11 @@
-# Desktop:
-xfce4
-xfce4-panel
-xfdesktop4
-lightdm
-xfce4-whiskermenu-plugin
-xfce4-terminal
-faenza-icon-theme
-shimmer-themes
-numix-gtk-theme
-
 # Xubuntu stuff:
 xubuntu-default-settings
 xubuntu-artwork
 xubuntu-core
 xubuntu-icon-theme
 xubuntu-docs
+shimmer-themes
+numix-gtk-theme
 
 ## General apps:
 ## Uncomment for big build
