@@ -1,7 +1,7 @@
 # Xubuntu stuff:
 xubuntu-default-settings
 xubuntu-artwork
-xubuntu-desktop
+xubuntu-core
 xubuntu-icon-theme
 xubuntu-docs
 shimmer-themes
@@ -9,7 +9,7 @@ numix-gtk-theme
 
 ## General apps:
 ## Uncomment for big build
-#iceweasel
+iceweasel
 #icedove
 #inkscape
 #scribus
