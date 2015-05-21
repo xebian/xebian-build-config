@@ -1,8 +1,8 @@
-# Xubuntu stuff:
-xubuntu-default-settings
-xubuntu-artwork
-xubuntu-core
-xubuntu-icon-theme
+# Xebian stuff:
+xebian-default-settings
+xebian-artwork
+xebian-core
+xebian-icon-theme
 xubuntu-docs
 shimmer-themes
 numix-gtk-theme

@@ -1,4 +1,4 @@
-Package: xfce4* libthunar* xfconf* xfdesktop4* libxfce4* gtk2-engines-xfce* orage* thunar* tango-icon-theme* xfwm4* libgarcon* bluebird-gtk-theme shimmer-wallpapers xubuntu-default-settings plymouth-theme-xubuntu-texti xubuntu-desktop xombrero xubuntu-icon-theme xubuntu-wallpapers orion-gtk-theme xubuntu-artwork shimmer-themes vanir-keyring xubuntu-docs greybird-gtk-theme xubuntu-core albatross-gtk-theme plymouth-theme-xubuntu-logo xubuntu-core numix-gtk-theme
+Package: xfce4* libthunar* xfconf* xfdesktop4* libxfce4* gtk2-engines-xfce* orage* thunar* tango-icon-theme* xfwm4* libgarcon* bluebird-gtk-theme shimmer-wallpapers xebian-default-settings plymouth-theme-xebian-text xebian-desktop xombrero xebian-icon-theme xebian-wallpapers orion-gtk-theme xebian-artwork shimmer-themes vanir-keyring xubuntu-docs greybird-gtk-theme xebian-core albatross-gtk-theme plymouth-theme-xebian-logo numix-gtk-theme
 Pin: release n=sid
 Pin-Priority: 600
 
